@@ -1,0 +1,12 @@
+aaa 用于存放生成的图片
+image用于存放测试转换的图片
+Kmeans_6_13用于存放6月13号已处理未完成可聚类分析的数据
+Kmeans_6_18用于存放添加了DKL的数据
+mnist用于存放idx-ubyte数据
+test用于存放转换为矩阵的数据 可以投入到.ld中的测试集数据
+test_Kmeans用于存放5.23的.ld生成数据
+test-6-13用于存放6月13号待生成的数据
+train为原训练集数据
+datapeocess.py、transform.py、transforstring.py为数据处理
+kmeans.py为较为齐全的kmeans分析，内涵多种数据处理方式
+pujulei.py为谱聚类方法
