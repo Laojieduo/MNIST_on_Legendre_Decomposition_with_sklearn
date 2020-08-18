@@ -1,0 +1,2 @@
+MNIST_Data.rar filter=lfs diff=lfs merge=lfs -text
+MINIST_Data.rar filter=lfs diff=lfs merge=lfs -text
